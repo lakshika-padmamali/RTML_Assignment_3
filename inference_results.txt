@@ -1,0 +1,3 @@
+✅ Image: dataset/test/baseball/3.jpg | Actual Class: baseball | Predicted Class: 7 (baseball)
+✅ Image: dataset/test/archery/2.jpg | Actual Class: archery | Predicted Class: 2 (archery)
+✅ Image: dataset/test/cricket/5.jpg | Actual Class: cricket | Predicted Class: 21 (cricket)

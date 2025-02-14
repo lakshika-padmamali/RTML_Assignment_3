@@ -1,0 +1,149 @@
+
+EPOCH 8/30
+Train Loss: 0.5990, Train Acc: 0.8395
+Updated Learning Rate: 0.000029
+Valid Loss: 0.1887, Valid Acc: 0.9365
+✅ Best Model Saved!
+Epoch time taken: 4m 41s
+
+EPOCH 9/30
+Train Loss: 0.1684, Train Acc: 0.9559
+Updated Learning Rate: 0.000027
+Valid Loss: 0.1612, Valid Acc: 0.9385
+✅ Best Model Saved!
+Epoch time taken: 4m 39s
+
+EPOCH 10/30
+Train Loss: 0.0867, Train Acc: 0.9758
+Updated Learning Rate: 0.000024
+Valid Loss: 0.2432, Valid Acc: 0.9246
+Epoch time taken: 4m 36s
+
+EPOCH 11/30
+Train Loss: 0.0663, Train Acc: 0.9805
+Updated Learning Rate: 0.000020
+Valid Loss: 0.1592, Valid Acc: 0.9484
+✅ Best Model Saved!
+Epoch time taken: 4m 42s
+
+EPOCH 12/30
+Train Loss: 0.0305, Train Acc: 0.9923
+Updated Learning Rate: 0.000015
+Valid Loss: 0.0761, Valid Acc: 0.9722
+✅ Best Model Saved!
+Epoch time taken: 4m 35s
+
+EPOCH 13/30
+Train Loss: 0.0184, Train Acc: 0.9961
+Updated Learning Rate: 0.000010
+Valid Loss: 0.0741, Valid Acc: 0.9663
+✅ Best Model Saved!
+Epoch time taken: 4m 37s
+
+EPOCH 14/30
+Train Loss: 0.0116, Train Acc: 0.9971
+Updated Learning Rate: 0.000006
+Valid Loss: 0.0583, Valid Acc: 0.9861
+✅ Best Model Saved!
+Epoch time taken: 4m 34s
+
+EPOCH 15/30
+Train Loss: 0.0042, Train Acc: 0.9995
+Updated Learning Rate: 0.000003
+Valid Loss: 0.0546, Valid Acc: 0.9762
+✅ Best Model Saved!
+Epoch time taken: 4m 34s
+
+EPOCH 16/30
+Train Loss: 0.0025, Train Acc: 0.9996
+Updated Learning Rate: 0.000001
+Valid Loss: 0.0524, Valid Acc: 0.9802
+✅ Best Model Saved!
+Epoch time taken: 4m 34s
+
+EPOCH 17/30
+Train Loss: 0.0016, Train Acc: 0.9999
+Updated Learning Rate: 0.000000
+Valid Loss: 0.0493, Valid Acc: 0.9802
+✅ Best Model Saved!
+Epoch time taken: 4m 35s
+
+EPOCH 18/30
+Train Loss: 0.0012, Train Acc: 0.9999
+Updated Learning Rate: 0.000001
+Valid Loss: 0.0493, Valid Acc: 0.9802
+Epoch time taken: 4m 35s
+
+EPOCH 19/30
+Train Loss: 0.0012, Train Acc: 0.9999
+Updated Learning Rate: 0.000003
+Valid Loss: 0.0504, Valid Acc: 0.9802
+Epoch time taken: 4m 36s
+
+EPOCH 20/30
+Train Loss: 0.0023, Train Acc: 0.9996
+Updated Learning Rate: 0.000006
+Valid Loss: 0.0652, Valid Acc: 0.9802
+Epoch time taken: 4m 34s
+
+EPOCH 21/30
+Train Loss: 0.0036, Train Acc: 0.9990
+Updated Learning Rate: 0.000010
+Valid Loss: 0.0469, Valid Acc: 0.9861
+✅ Best Model Saved!
+Epoch time taken: 4m 34s
+
+EPOCH 22/30
+Train Loss: 0.0124, Train Acc: 0.9967
+Updated Learning Rate: 0.000015
+Valid Loss: 0.0578, Valid Acc: 0.9802
+Epoch time taken: 4m 34s
+
+EPOCH 23/30
+Train Loss: 0.0197, Train Acc: 0.9950
+Updated Learning Rate: 0.000020
+Valid Loss: 0.0771, Valid Acc: 0.9742
+Epoch time taken: 4m 34s
+
+EPOCH 24/30
+Train Loss: 0.0355, Train Acc: 0.9907
+Updated Learning Rate: 0.000024
+Valid Loss: 0.1011, Valid Acc: 0.9643
+Epoch time taken: 4m 34s
+
+EPOCH 25/30
+Train Loss: 0.0404, Train Acc: 0.9878
+Updated Learning Rate: 0.000027
+Valid Loss: 0.1311, Valid Acc: 0.9643
+Epoch time taken: 4m 34s
+
+EPOCH 26/30
+Train Loss: 0.0539, Train Acc: 0.9859
+Updated Learning Rate: 0.000029
+Valid Loss: 0.1574, Valid Acc: 0.9484
+Epoch time taken: 4m 34s
+
+EPOCH 27/30
+Train Loss: 0.0509, Train Acc: 0.9856
+Updated Learning Rate: 0.000030
+Valid Loss: 0.1431, Valid Acc: 0.9583
+Epoch time taken: 4m 34s
+
+EPOCH 28/30
+Train Loss: 0.0417, Train Acc: 0.9893
+Updated Learning Rate: 0.000029
+Valid Loss: 0.1248, Valid Acc: 0.9643
+Epoch time taken: 4m 34s
+
+EPOCH 29/30
+Train Loss: 0.0396, Train Acc: 0.9896
+Updated Learning Rate: 0.000027
+Valid Loss: 0.1375, Valid Acc: 0.9643
+Epoch time taken: 4m 33s
+
+EPOCH 30/30
+Train Loss: 0.0344, Train Acc: 0.9908
+Updated Learning Rate: 0.000024
+Valid Loss: 0.1386, Valid Acc: 0.9643
+Epoch time taken: 4m 34s
+Total time taken: 105m 30s
